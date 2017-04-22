@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>28</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>900</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/glass/</ImageTemplate>
+            <ImageTemplateName>Glass</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Oranienbaum</TemplateFont>
+            <TemplateName>glass</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro1 portada.jpg</url>
+                <title>libro1 portada</title>
+                <filesize>384753</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro1 contraportada.jpg</url>
+                <title>libro1 contraportada</title>
+                <filesize>70574</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro2 portada.jpg</url>
+                <title>libro2 portada</title>
+                <filesize>111337</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro2 contraportada.jpg</url>
+                <title>libro2 contraportada</title>
+                <filesize>237756</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro3 portada.jpg</url>
+                <title>libro3 portada</title>
+                <filesize>22165</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro3 contraportada.jpg</url>
+                <title>libro3 contraportada</title>
+                <filesize>448981</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro4 portada.jpg</url>
+                <title>libro4 portada</title>
+                <filesize>210899</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro4 contraportada.jpg</url>
+                <title>libro4 contraportada</title>
+                <filesize>380847</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro5 portada.jpg</url>
+                <title>libro5 portada</title>
+                <filesize>74970</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro5 contraportada.jpg</url>
+                <title>libro5 contraportada</title>
+                <filesize>69665</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro6 portada.png</url>
+                <title>libro6 portada</title>
+                <filesize>126506</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro6 contraportada.jpg</url>
+                <title>libro6 contraportada</title>
+                <filesize>383384</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro7 portada.PNG</url>
+                <title>libro7 portada</title>
+                <filesize>328740</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro7 contraportada.jpg</url>
+                <title>libro7 contraportada</title>
+                <filesize>104222</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro8 portada.png</url>
+                <title>libro8 portada</title>
+                <filesize>224244</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro8 contraportada.jpg</url>
+                <title>libro8 contraportada</title>
+                <filesize>383938</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro9 portada.jpg</url>
+                <title>libro9 portada</title>
+                <filesize>32147</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro9 contraportada.jpg</url>
+                <title>libro9 contraportada</title>
+                <filesize>95162</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro10 portada.jpg</url>
+                <title>libro10 portada</title>
+                <filesize>10005</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro10 contraportada.jpg</url>
+                <title>libro10 contraportada</title>
+                <filesize>64193</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro11 portada.jpg</url>
+                <title>libro11 portada</title>
+                <filesize>11104</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 2/APLICACIONES/app3/imagenes/libro11 contraportada.jpg</url>
+                <title>libro11 contraportada</title>
+                <filesize>95227</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
